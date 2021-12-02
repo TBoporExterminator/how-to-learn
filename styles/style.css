@@ -12,11 +12,8 @@
   /* выше установили ограничения для секции */
   background-color: #f2f2f2;
   display: flex;
-  /*align-items: center;*/
   position: relative;
   overflow: hidden;
-  /*justify-content: left;*/
-  /*padding-left: 64px;*/
 }
 .header__title {
   width: 730px;;
@@ -74,10 +71,6 @@
   display: flex;
   justify-content: center;
   padding-top: 100px;
-  /*padding-bottom: 100px;*/
-  /*min-width: 784px;
-  width: 80%;
-  height: 20%;*/
   background-color: white;
 }
 .two-columns {
