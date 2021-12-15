@@ -1,0 +1,6 @@
+.cards {
+    display: flex;
+    max-width: 920px;
+    width: 100%;
+    flex-wrap: wrap;
+}
