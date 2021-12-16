@@ -52,9 +52,11 @@
 @import url(../styles/khan/__book-container/khan__book-container.css);
 @import url(../styles/khan/__book-pic/khan__book-pic.css);
 @import url(../styles/khan/__buy-link/khan__buy-link.css);
-
 @import url(../styles/kaufman/kaufman.css);
 @import url(../styles/kaufman/__triangle/kaufman__triangle.css);
+@import url(../styles/resources/resources.css);
+@import url(../styles/resources/__logo-zone/resources__logo-zone.css);
+@import url(../styles/resources/__logo/resources__logo.css);
 @import url(../styles/footer/footer.css);
 @import url(../styles/footer/__column/footer__column.css);
 @import url(../styles/footer/__columns/footer__columns.css);
